@@ -1,4 +1,4 @@
-name: fdefault-component
+name: default-component
 type: component
 subcomponents:
 - name: datadog
