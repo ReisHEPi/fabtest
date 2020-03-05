@@ -4,5 +4,4 @@ subcomponents:
 - name: datadog
   type: helm
   method: git
-  source: https://github.com/helm/charts
-  path: stable/datadog
+  source: https://github.com/helm/charts/stable/datadog
